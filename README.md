@@ -1,5 +1,13 @@
 # 🔧 QODER RESET TOOL
 
+<div align="center">
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-@codetaik-blue?style=for-the-badge&logo=telegram)](https://t.me/codetaik)
+[![Community Group](https://img.shields.io/badge/Community-Code%20%26%20Talk-orange?style=for-the-badge&logo=telegram)](https://t.me/+k4fB8V7JmAwzMDE0)
+[![Creator](https://img.shields.io/badge/Creator-MiWaCode-green?style=for-the-badge&logo=github)](https://github.com/MiWaCode)
+
+</div>
+
 A powerful Python CLI tool for managing Qoder application machine IDs and cleaning related data on Windows systems.
 
 ## 📋 Features
